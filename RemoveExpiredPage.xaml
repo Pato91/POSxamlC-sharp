@@ -1,0 +1,35 @@
+﻿<Page
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors" x:Class="Meraki101.RemoveExpiredPage" 
+      mc:Ignorable="d" 
+      d:DesignHeight="475" d:DesignWidth="818.567"
+	Title="RemoveExpiredPage"
+      KeepAlive="True">
+
+    <DockPanel>
+        <Frame x:Name="_removeExpiredFrame"/>
+        <Grid HorizontalAlignment="Left" Width="818" Margin="0,0,0,0" Background="#FF6EE2D2" Height="475" VerticalAlignment="Bottom">
+            <DataGrid x:Name="stockDeleteDataGrid" HorizontalAlignment="Left" Height="307" Margin="32,126,0,0" VerticalAlignment="Top" Width="532">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Binding="{x:Null}" ClipboardContentBinding="{x:Null}" Header="Barcode" HeaderStringFormat="Barcode"/>
+                    <DataGridTextColumn Binding="{x:Null}" ClipboardContentBinding="{x:Null}"/>
+                    <DataGridTextColumn Binding="{x:Null}" ClipboardContentBinding="{x:Null}" Header="Product Name" HeaderStringFormat="ProductName"/>
+                    <DataGridTextColumn Binding="{x:Null}" ClipboardContentBinding="{x:Null}" Header="Description" HeaderStringFormat="Description"/>
+                    <DataGridTextColumn Binding="{x:Null}" ClipboardContentBinding="{x:Null}" Header="Type" HeaderStringFormat="Type"/>
+                    <DataGridTextColumn Binding="{x:Null}" ClipboardContentBinding="{x:Null}" Header="Quantity" HeaderStringFormat="Quantity"/>
+                    <DataGridTextColumn Binding="{x:Null}" ClipboardContentBinding="{x:Null}" Header="Unit Price" HeaderStringFormat="UnitPrice"/>
+                    <DataGridTextColumn Binding="{x:Null}" ClipboardContentBinding="{x:Null}" Header="Total Remaining Value" HeaderStringFormat="TotalRemaining"/>
+                </DataGrid.Columns>
+            </DataGrid>
+
+            <dxe:SearchControl HorizontalAlignment="Left" Margin="41,81,0,0" VerticalAlignment="Top" Width="134"/>
+            <Button x:Name="backToInventoryPageBtn2" Content="Back To Inventory Menu" HorizontalAlignment="Left" Margin="32,24,0,0" VerticalAlignment="Top" Width="143" Background="GreenYellow" Click="backToInventoryPageBtn2_Click"/>
+            <Button x:Name="deleteStockBtn" Content="Delete" HorizontalAlignment="Left" Margin="473,81,0,0" VerticalAlignment="Top" Width="91" Background="GreenYellow"/>
+
+        </Grid>
+    </DockPanel>
+
+</Page>

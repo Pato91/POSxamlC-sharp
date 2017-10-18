@@ -1,0 +1,191 @@
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\obj\Debug\AddInventoryPage.baml
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\obj\Debug\AddUserPage.baml
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\obj\Debug\EditUserPage.baml
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\obj\Debug\ExpiryDateEdit.baml
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\obj\Debug\HomePage.baml
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\obj\Debug\InventoryManager.baml
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\obj\Debug\MainWindow.baml
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\obj\Debug\MyDialog.baml
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\obj\Debug\RemoveExpiredPage.baml
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\obj\Debug\Reports.baml
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\obj\Debug\SalesPage.baml
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\obj\Debug\SellPage.baml
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\obj\Debug\UserPage.baml
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\obj\Debug\WebBrowser.baml
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\obj\Debug\AddInventoryPage.g.cs
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\obj\Debug\AddUserPage.g.cs
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\obj\Debug\EditUserPage.g.cs
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\obj\Debug\ExpiryDateEdit.g.cs
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\obj\Debug\HomePage.g.cs
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\obj\Debug\InventoryManager.g.cs
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\obj\Debug\MainWindow.g.cs
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\obj\Debug\MyDialog.g.cs
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\obj\Debug\RemoveExpiredPage.g.cs
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\obj\Debug\Reports.g.cs
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\obj\Debug\SalesPage.g.cs
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\obj\Debug\SellPage.g.cs
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\obj\Debug\UserPage.g.cs
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\obj\Debug\WebBrowser.g.cs
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\obj\Debug\App.g.cs
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\obj\Debug\Meraki101_Content.g.cs
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\obj\Debug\Meraki101_MarkupCompile.cache
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\obj\Debug\Meraki101.g.resources
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\obj\Debug\Meraki101.Properties.Resources.resources
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\obj\Debug\Meraki101.csproj.GenerateResource.Cache
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\obj\Debug\Meraki101.exe.licenses
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\obj\Debug\ViewsStockPage.baml
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\obj\Debug\ViewsStockPage.g.cs
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\obj\Debug\Meraki101.csprojResolveAssemblyReference.cache
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\bin\Debug\MerakiBusinessDB.mdf
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\bin\Debug\MerakiBusinessDB_log.ldf
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\bin\Debug\Meraki101.exe.config
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\bin\Debug\Meraki101.exe
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\bin\Debug\Meraki101.pdb
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\bin\Debug\Microsoft.PointOfService.Service.exe
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\obj\Debug\Meraki101.exe
+C:\Users\Meraki\Documents\Visual Studio 2013\Projects\Meraki101\Meraki101\obj\Debug\Meraki101.pdb
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\bin\Debug\Meraki101.exe.config
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\Meraki101.exe
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\Meraki101.pdb
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\bin\Debug\MerakiBusinessDB.mdf
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\bin\Debug\MerakiBusinessDB_log.ldf
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\bin\Debug\Meraki101.exe
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\bin\Debug\Meraki101.pdb
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\bin\Debug\Microsoft.PointOfService.Service.exe
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\Meraki101.csprojResolveAssemblyReference.cache
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\AddInventoryPage.baml
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\AddUserPage.baml
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\EditUserPage.baml
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\ExpiryDateEdit.baml
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\HomePage.baml
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\InventoryManager.baml
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\MainWindow.baml
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\MyDialog.baml
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\RemoveExpiredPage.baml
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\Reports.baml
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\SalesPage.baml
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\SellPage.baml
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\UserPage.baml
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\ViewsStockPage.baml
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\WebBrowser.baml
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\AddInventoryPage.g.cs
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\AddUserPage.g.cs
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\EditUserPage.g.cs
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\ExpiryDateEdit.g.cs
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\HomePage.g.cs
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\InventoryManager.g.cs
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\MainWindow.g.cs
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\MyDialog.g.cs
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\RemoveExpiredPage.g.cs
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\Reports.g.cs
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\SalesPage.g.cs
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\SellPage.g.cs
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\UserPage.g.cs
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\ViewsStockPage.g.cs
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\WebBrowser.g.cs
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\App.g.cs
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\Meraki101_Content.g.cs
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\Meraki101_MarkupCompile.cache
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\Meraki101.g.resources
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\Meraki101.Properties.Resources.resources
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\Meraki101.csproj.GenerateResource.Cache
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\Meraki101.exe.licenses
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\Expenses.baml
+C:\Users\Meraki\Dropbox\Dial\Meraki101\Meraki101\obj\Debug\Expenses.g.cs
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\bin\Debug\Meraki101.exe.config
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\Meraki101.exe
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\Meraki101.pdb
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\bin\Debug\MerakiBusinessDB.mdf
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\bin\Debug\MerakiBusinessDB_log.ldf
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\bin\Debug\Meraki101.exe
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\bin\Debug\Meraki101.pdb
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\bin\Debug\Microsoft.PointOfService.Service.exe
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\Meraki101.csprojResolveAssemblyReference.cache
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\AddInventoryPage.baml
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\AddUserPage.baml
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\EditUserPage.baml
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\Expenses.baml
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\ExpiryDateEdit.baml
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\HomePage.baml
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\InventoryManager.baml
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\MainWindow.baml
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\MyDialog.baml
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\RemoveExpiredPage.baml
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\Reports.baml
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\SalesPage.baml
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\SellPage.baml
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\UserPage.baml
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\ViewsStockPage.baml
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\WebBrowser.baml
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\AddInventoryPage.g.cs
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\AddUserPage.g.cs
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\EditUserPage.g.cs
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\Expenses.g.cs
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\ExpiryDateEdit.g.cs
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\HomePage.g.cs
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\InventoryManager.g.cs
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\MainWindow.g.cs
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\MyDialog.g.cs
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\RemoveExpiredPage.g.cs
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\Reports.g.cs
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\SalesPage.g.cs
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\SellPage.g.cs
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\UserPage.g.cs
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\ViewsStockPage.g.cs
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\WebBrowser.g.cs
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\App.g.cs
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\Meraki101_Content.g.cs
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\Meraki101_MarkupCompile.cache
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\Meraki101.g.resources
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\Meraki101.Properties.Resources.resources
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\Meraki101.csproj.GenerateResource.Cache
+C:\Users\Meraki\Desktop\Meraki101\Meraki101\obj\Debug\Meraki101.exe.licenses
+E:\Work\Meraki\Meraki101\Meraki101\bin\Debug\Meraki101.exe.config
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\Meraki101.exe
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\Meraki101.pdb
+E:\Work\Meraki\Meraki101\Meraki101\bin\Debug\MerakiBusinessDB.mdf
+E:\Work\Meraki\Meraki101\Meraki101\bin\Debug\MerakiBusinessDB_log.ldf
+E:\Work\Meraki\Meraki101\Meraki101\bin\Debug\Meraki101.exe
+E:\Work\Meraki\Meraki101\Meraki101\bin\Debug\Meraki101.pdb
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\Meraki101.csprojResolveAssemblyReference.cache
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\AddInventoryPage.baml
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\AddUserPage.baml
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\EditUserPage.baml
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\Expenses.baml
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\ExpiryDateEdit.baml
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\HomePage.baml
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\InventoryManager.baml
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\MainWindow.baml
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\MyDialog.baml
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\RemoveExpiredPage.baml
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\Reports.baml
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\SalesPage.baml
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\SellPage.baml
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\UserPage.baml
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\ViewsStockPage.baml
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\WebBrowser.baml
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\AddInventoryPage.g.cs
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\AddUserPage.g.cs
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\EditUserPage.g.cs
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\Expenses.g.cs
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\ExpiryDateEdit.g.cs
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\HomePage.g.cs
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\InventoryManager.g.cs
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\MainWindow.g.cs
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\MyDialog.g.cs
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\RemoveExpiredPage.g.cs
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\Reports.g.cs
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\SalesPage.g.cs
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\SellPage.g.cs
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\UserPage.g.cs
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\ViewsStockPage.g.cs
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\WebBrowser.g.cs
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\App.g.cs
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\Meraki101_Content.g.cs
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\Meraki101_MarkupCompile.cache
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\Meraki101.g.resources
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\Meraki101.Properties.Resources.resources
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\Meraki101.csproj.GenerateResource.Cache
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\Meraki101.exe.licenses
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\EditPage.baml
+E:\Work\Meraki\Meraki101\Meraki101\obj\Debug\EditPage.g.cs

@@ -1,0 +1,29 @@
+﻿<Page
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors" x:Class="Meraki101.UsersPage" 
+      mc:Ignorable="d" 
+      d:DesignHeight="490" d:DesignWidth="818.567"
+	Title="UsersPage"
+      KeepAlive="True">
+
+    <DockPanel>
+        <Frame x:Name="_viewUserFrame"/>
+
+        <Grid HorizontalAlignment="Left" Width="818.567" Margin="0,0,0,0" Background="#FF6EE2D2" Height="490" VerticalAlignment="Bottom">
+            <DataGrid x:Name="employeeDataGrid"  HorizontalAlignment="Left" Height="232" Margin="73,176,0,0" VerticalAlignment="Top" Width="600" MouseDoubleClick="employeeDataGridRow_DoubleClicked" CanUserAddRows="False"/>
+            <Button x:Name="backToUsersBtn" Content="Back" HorizontalAlignment="Left" Margin="35,28,0,0" VerticalAlignment="Top" Width="75" Background="GreenYellow" Click="backToUsersBtn_Click"/>
+            <Button x:Name="deleteUserBtn" Content="Delete User" HorizontalAlignment="Left" Margin="359,135,0,0" VerticalAlignment="Top" Width="90" Background="GreenYellow" Click="deleteUserBtn_Click"/>
+            <Label Content="User" HorizontalAlignment="Left" Margin="493,25,0,0" VerticalAlignment="Top" Width="61" RenderTransformOrigin="0.313,0.586"/>
+            <Label x:Name="userNameLabel3" Content="" HorizontalAlignment="Left" Margin="584,28,0,0" VerticalAlignment="Top" Width="120"/>
+            <Button x:Name="addUserBtn" Content="Add New User" HorizontalAlignment="Left" Margin="562,73,0,0" VerticalAlignment="Top" Width="111" Background="Greenyellow" Click="addUserBtn_Click"/>
+            <Button x:Name="editUserBtn" Content="Edit User" HorizontalAlignment="Left" Margin="560,135,0,0" VerticalAlignment="Top" Width="113" Background="GreenYellow" Click="editUserBtn_Click"/>
+            <Label Content="Meraki1.0- a Ayebale Bright Johnson Product" HorizontalAlignment="Center" Margin="271,450,292.567,0" VerticalAlignment="Top" Height="30" Width="255"/>
+            <dxe:SearchControl x:Name="searchUserControl" HorizontalAlignment="Left" Margin="117,133,0,0" VerticalAlignment="Top" Width="180" KeyDown="searchUser_KeyUp"/>
+
+        </Grid>
+    </DockPanel>
+
+</Page>

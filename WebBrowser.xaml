@@ -1,0 +1,10 @@
+﻿<Window x:Class="Meraki101.TheWebBrowser"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Report" Height="1000" Width="700" Loaded="webBrowser_LoadCompleted" Icon="/Icons/meraki.jpg" ScrollViewer.CanContentScroll="True" ScrollViewer.HorizontalScrollBarVisibility="Visible" ScrollViewer.VerticalScrollBarVisibility="Visible" ResizeMode="CanResize">
+    <Grid>
+        <WebBrowser x:Name="webBrowser" HorizontalAlignment="Left" Height="934" Margin="10,10,0,0" VerticalAlignment="Top" Width="672" />
+
+    </Grid>
+</Window>
+

@@ -1,0 +1,53 @@
+﻿<Page
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:dxwui="http://schemas.devexpress.com/winfx/2008/xaml/windowsui" xmlns:dxlc="http://schemas.devexpress.com/winfx/2008/xaml/layoutcontrol" x:Class="Meraki101.HomePage" 
+      mc:Ignorable="d" 
+      d:DesignHeight="490" d:DesignWidth="818.567"
+	Title="HomePage"
+      KeepAlive="True"
+     >
+
+    <DockPanel>
+        <Frame x:Name="_homeFrame" />
+        <Grid HorizontalAlignment="Left" Width="818.567" Margin="0,0,0,0" Background="#FF6EE2D2" Height="490" VerticalAlignment="Bottom">
+
+
+            <Label Content="News" HorizontalAlignment="Left" Height="29" Margin="20,81,0,0" VerticalAlignment="Top" Width="105" FontWeight="Bold" FontStyle="Italic" FontSize="15" FontFamily="Segoe Script"/>
+            <Label Content="Meraki1.0- a Ayebale Bright Johnson Product" Grid.Column="1" HorizontalAlignment="Center" Margin="42,450,0,0" VerticalAlignment="Top" Height="30" Width="255" Grid.ColumnSpan="2"/>
+
+            <dxlc:TileLayoutControl Background="#FFB5E4F1" Margin="300,110,69,83" ScrollViewer.VerticalScrollBarVisibility="Disabled" ScrollBars="None" DragScrolling="False" AllowItemMoving="False" AllowAddFlowBreaksDuringItemMoving="False">
+                <dxlc:Tile Name="InventoryTile" Margin="-121,-110,106,105" Size="Small" Header="Inventory" MouseDown="InventoryTile_Click" ToolTip="Inventory" Click="InventoryTile_Click" Background="#FF54CCD8" HorizontalContentAlignment="Center" VerticalAlignment="Bottom" VerticalContentAlignment="Center" FontFamily="Arial" ContentChangeInterval="0:0:0.4">
+                    <Image Margin="10" HorizontalAlignment="Center" VerticalAlignment="Center" Width="80" Height="80" Source="Icons\business (2).png" Stretch="UniformToFill"/>
+                </dxlc:Tile>
+                <dxlc:Tile x:Name="salesTile" Margin="-115,-110,79,61" Size="Small" Header="Sales" ToolTip="Sales" Click="salesTile_Click" Background="#FFDC0082" FontFamily="Arial">
+                    <Image Margin="10" HorizontalAlignment="Center" VerticalAlignment="Center" Width="80" Height="80" Source="Icons\money.png" Stretch="UniformToFill" />
+
+                </dxlc:Tile>
+                <dxlc:Tile x:Name="usersTile" FontFamily="Arial" Header="Users" Margin="-89,-110,89,110" Size="Small" ToolTip="Users" Click="usersTile_Click" Background="#FF50DC00">
+                    <Image Margin="10" HorizontalAlignment="Center" VerticalAlignment="Center" Width="80" Height="80" Source="Icons\man.png" Stretch="UniformToFill"/>
+
+                </dxlc:Tile>
+                <dxlc:Tile x:Name="reportsTile" Margin="-549,40,549,-40" FontFamily="Arial" Size="Small" Header="Reports" Click="reportsTile_Click" ToolTip="Records" Background="#FFDCBE00">
+                    <Image Margin="10" HorizontalAlignment="Center"  VerticalAlignment="Center" Width="80" Height="80" Source="Icons\signature.png" Stretch="UniformToFill"/>
+
+                </dxlc:Tile>
+                <dxlc:Tile x:Name="expensesTile" Margin="-557,41,558,-40" FontFamily="Arial" Size="Small" Header="Payments" Click="expensesTile_Click" ToolTip="Payments" Background="#FF254497">
+                    <Image Margin="10" HorizontalAlignment="Center"  VerticalAlignment="Center" Width="80" Height="80" Source="Icons\business.png" Stretch="UniformToFill"/>
+
+                </dxlc:Tile>
+
+            </dxlc:TileLayoutControl>
+            <Label Content="User" HorizontalAlignment="Right" Margin="0,21,205,0" VerticalAlignment="Top" Width="104"/>
+            <Label x:Name="userNameLabel" Content="" HorizontalAlignment="Right" Margin="0,21,45,0" VerticalAlignment="Top" Width="155"/>
+            <Button Content="Log Out" HorizontalAlignment="Right" Height="22" Margin="0,66,76,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+            <TextBlock x:Name="newsTextBlock" Background="#FFE9F5F1" HorizontalAlignment="Left" Height="297" Margin="20,110,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="218"/>
+
+
+
+        </Grid>
+    </DockPanel>
+</Page>
+

@@ -1,0 +1,60 @@
+﻿<Page
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors" x:Class="Meraki101.Reports" 
+      mc:Ignorable="d" 
+      d:DesignHeight="475" d:DesignWidth="818.567"
+	Title="Reports"
+      KeepAlive="True" Loaded="reports_Loaded">
+
+    <DockPanel>
+        <Frame x:Name="_reportsFrame" />
+
+        <Grid HorizontalAlignment="Left" Width="818" Margin="0,0,0,0" Background="#FF6EE2D2" Height="475" VerticalAlignment="Bottom">
+
+            <Label Content="Meraki1.0- a Ayebale Bright Johnson Product" HorizontalAlignment="Left" Margin="255,429,0,0" VerticalAlignment="Top" Width="265"/>
+            <GroupBox Header="Detailed Sales Report" HorizontalAlignment="Left" Height="75" Margin="22,59,0,0" VerticalAlignment="Top" Width="775">
+                <Label Content="Start Date:" HorizontalAlignment="Left" Height="23" Margin="9,8,0,0" VerticalAlignment="Top" Width="67"/>
+
+            </GroupBox>
+            <GroupBox Header="Detailed Inventory Report" HorizontalAlignment="Left" Height="75" Margin="23,156,0,0" VerticalAlignment="Top" Width="775">
+                <Label Content="Label" HorizontalAlignment="Left" Margin="297,41,0,0" VerticalAlignment="Top"/>
+            </GroupBox>
+            <GroupBox Header="Detailed Payments Report" HorizontalAlignment="Left" Height="75" Margin="24,251,0,0" VerticalAlignment="Top" Width="773">
+                <Label Content="End Date:" HorizontalAlignment="Left" Height="26" Margin="192,-184,0,0" VerticalAlignment="Top" Width="67"/>
+            </GroupBox>
+            <GroupBox Header="Business Evaluation" HorizontalAlignment="Left" Height="75" Margin="24,349,0,0" VerticalAlignment="Top" Width="773">
+                <DatePicker x:Name="endDatePicker" HorizontalAlignment="Left" Margin="265,-279,0,0" VerticalAlignment="Top"/>
+            </GroupBox>
+            <ComboBox x:Name="byStaffCombobox" Text="By Staff" HorizontalAlignment="Left" Margin="413,87,0,0" VerticalAlignment="Top" Width="107"/>
+            <ComboBox x:Name="byProductCombobox" Text="By Product" HorizontalAlignment="Left" Margin="538,87,0,0" VerticalAlignment="Top" Width="120"/>
+            <Button x:Name="printSalesRptBtn" Content="Print" Background="GreenYellow" HorizontalAlignment="Left" Margin="684,89,0,0" VerticalAlignment="Top" Width="75" Click="printSalesRptBtn_Click"/>
+            <Label Content="Start Date:" HorizontalAlignment="Left" Height="23" Margin="33,187,0,0" VerticalAlignment="Top" Width="69"/>
+            <DatePicker HorizontalAlignment="Left" Margin="101,186,0,0" VerticalAlignment="Top"/>
+            <Label Content="End Date:" HorizontalAlignment="Left" Height="24" Margin="221,186,0,0" VerticalAlignment="Top" Width="61"/>
+            <DatePicker HorizontalAlignment="Left" Margin="297,185,0,0" VerticalAlignment="Top"/>
+            <DatePicker x:Name="startDatePicker" HorizontalAlignment="Left" Margin="106,85,0,0" VerticalAlignment="Top"/>
+            <ComboBox HorizontalAlignment="Left" Height="21" Margin="412,185,0,0" VerticalAlignment="Top" Width="106"/>
+            <ComboBox HorizontalAlignment="Left" Height="21" Margin="537,184,0,0" VerticalAlignment="Top" Width="117"/>
+            <Button Content="Print" Background="GreenYellow" HorizontalAlignment="Left" Height="21" Margin="682,182,0,0" VerticalAlignment="Top" Width="75"/>
+            <Label Content="Start Date:" HorizontalAlignment="Left" Height="24" Margin="34,279,0,0" VerticalAlignment="Top" Width="65"/>
+            <DatePicker HorizontalAlignment="Left" Height="27" Margin="99,279,0,0" VerticalAlignment="Top" Width="103"/>
+            <Label Content="End Date:" HorizontalAlignment="Left" Height="23" Margin="215,279,0,0" VerticalAlignment="Top" Width="63"/>
+            <DatePicker HorizontalAlignment="Left" Height="27" Margin="291,279,0,0" VerticalAlignment="Top" Width="102"/>
+            <ComboBox HorizontalAlignment="Left" Height="23" Margin="415,280,0,0" VerticalAlignment="Top" Width="105"/>
+            <Button Content="Print" Background="GreenYellow" HorizontalAlignment="Left" Height="21" Margin="682,279,0,0" VerticalAlignment="Top" Width="75"/>
+            <Label Content="Start Date:" HorizontalAlignment="Left" Height="28" Margin="33,376,0,0" VerticalAlignment="Top" Width="66"/>
+            <DatePicker HorizontalAlignment="Left" Height="30" Margin="100,374,0,0" VerticalAlignment="Top" Width="102"/>
+            <Label Content="End Date:" HorizontalAlignment="Left" Height="26" Margin="212,376,0,0" VerticalAlignment="Top" Width="66"/>
+            <DatePicker HorizontalAlignment="Left" Height="27" Margin="284,376,0,0" VerticalAlignment="Top" Width="104"/>
+            <Button Content="Evaluate" Background="GreenYellow" HorizontalAlignment="Left" Height="21" Margin="680,376,0,0" VerticalAlignment="Top" Width="75"/>
+            <Label Content="User" HorizontalAlignment="Left" Height="26" Margin="597,18,0,0" VerticalAlignment="Top" Width="58"/>
+            <Label x:Name="usernameLabel" Content="" HorizontalAlignment="Left" Height="27" Margin="664,18,0,0" VerticalAlignment="Top" Width="125"/>
+            <Button Content="Back" Background="GreenYellow" HorizontalAlignment="Left" Height="22" Margin="40,18,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+
+        </Grid>
+    </DockPanel>
+
+</Page>
